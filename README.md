@@ -10,7 +10,7 @@
 * [二分查找](https://github.com/3-Stone/php-algorithm/blob/master/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.php)
 * [php实现单链表](https://github.com/3-Stone/php-algorithm/blob/master/php%E5%AE%9E%E7%8E%B0%E5%8D%95%E9%93%BE%E8%A1%A8.php)
 * [链表翻转](https://github.com/3-Stone/php-algorithm/blob/master/%E9%93%BE%E8%A1%A8%E7%BF%BB%E8%BD%AC.php)
-* 判断链表是否有环
+* [判断链表是否有环](https://github.com/3-Stone/php-algorithm/blob/master/%E5%88%A4%E6%96%AD%E9%93%BE%E8%A1%A8%E6%98%AF%E5%90%A6%E6%9C%89%E7%8E%AF.php)
 * 链表合并，合并后保持有序
 * 计算字符串中最大回文串
 * 链表倒数第k个节点
