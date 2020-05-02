@@ -5,6 +5,8 @@
 * [冒泡排序](https://github.com/3-Stone/php-algorithm/blob/master/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.php)
 * [选择排序](https://github.com/3-Stone/php-algorithm/blob/master/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.php)
 * [快速排序](https://github.com/3-Stone/php-algorithm/blob/master/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.php)
+* 归并排序
+* 桶排
 * 二分查找
 * php实现链表
 * php实现链表翻转
