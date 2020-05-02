@@ -13,5 +13,5 @@
 * [判断链表是否有环](https://github.com/3-Stone/php-algorithm/blob/master/%E5%88%A4%E6%96%AD%E9%93%BE%E8%A1%A8%E6%98%AF%E5%90%A6%E6%9C%89%E7%8E%AF.php)
 * 链表合并，合并后保持有序
 * 计算字符串中最大回文串
-* 链表倒数第k个节点
-* 无重复字符的最长子串
+* [链表倒数第k个节点](https://github.com/3-Stone/php-algorithm/blob/master/%E9%93%BE%E8%A1%A8%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.php)
+* [无重复字符的最长子串](https://github.com/3-Stone/php-algorithm/blob/master/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.php)
