@@ -11,7 +11,6 @@ class Node
     }
 }
 
-$headNode = new Node(null, null);
 $node1 = new Node('1', null);
 $node2 = new Node('2', null);
 $node3 = new Node('3', null);
