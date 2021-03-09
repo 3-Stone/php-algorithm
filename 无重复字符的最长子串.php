@@ -41,3 +41,27 @@ for ($i = 0; $i <= mb_strlen($str) - 1; $i++) {
 }
 
 echo "无重复字符串最长子串长度：" . $maxLen;
+
+
+// 用滑动窗口方式解
+$str = "bbbbb";
+if (strlen($str) <= 1) {
+    return strlen($str);
+}
+
+$left = 0;
+$right = -1;
+$hash = [];
+$max = 0;
+
+while($left < strlen($str)) {
+
+    if ($right + 1 < strlen($str) && !isset($hash[$str[$right + 1]])) {
+        $hash[$str[++$right]] = 1;
+    } else {
+        unset($hash[$str[$left++]]);
+    }
+    $max = max(count($hash), $max);
+}
+
+echo $max;
