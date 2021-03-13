@@ -37,6 +37,7 @@ print_r('<pre>');
 print_r($kThNode);
 print_r('</pre>');
 
+// 核心思想：让快指针先走k步，然后快慢指针，都一步一步的走，快指针到表尾时候，返回慢指针的内容即可
 function getKthNode($headNode, $k)
 {
     // 快慢指向都先指向头节点
